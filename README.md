@@ -7,8 +7,8 @@ Solutions version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_fall_2024/blob/main/solutions/IntroToPythonBZR.ipynb)
 
 Dear reader,  
-This repository contains the code, outline and slides for the QLS-MiCM Introduction 
-to Python workshop at McGill in Fall 2024.
+This repository contains the code, outline and slides for the **QLS-MiCM Introduction 
+to Python** workshop at McGill in Fall 2024.
 
 This workshop is the first part of a two-part series. The second part, on **Intermediate Python** can be found [here](https://github.com/bzrudski/micm_intermediate_python_fall_2024).
 
