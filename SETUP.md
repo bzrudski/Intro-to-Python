@@ -2,7 +2,7 @@
 
 Benjamin Z. Rudski
 
-Hello workshop attendees! Welcome to the preparation for the **Introduction to Python** workshop run by the *Quantitative Life Sciences - McGill Initiative in Computational Medicine* (QLS-MiCM). In this document, I will help you install the software that you’ll need to get the most out of the workshop. If you’ve already used Jupyter notebooks and you already have a preferred work setup for dealing with these, feel free to stop reading here. If you’ve never used Python before and/or have no idea what a Jupyter notebook is, you’ve come to the right document!
+Hello workshop attendees! Welcome to the preparation for the **Introduction to Python** workshop run by the *Quantitative Life Sciences - McGill Initiative in Computational Medicine* (QLS-MiCM). In this document, I will help you install the software that you’ll need to get the most out of the workshop. If you’ve already used Jupyter notebooks and you already have a preferred work setup for dealing with these, feel free to just read the [Workshop Material](#workshop-material) section and skip the rest. If you’ve never used Python before and/or have no idea what a Jupyter notebook is, you’ve come to the right document!
 
 ## Workshop Material
 
@@ -53,13 +53,13 @@ To install JupyterLab, type the following:
 conda install -c conda-forge jupyterlab ipykernel -y
 ```
 
-This line will use the `conda` package management tool to install JupyterLab and the IPython kernel from the `conda-forge` package channel. Don't worry if this doesn't make sense. It will all be explained in **Intermediate Python** (Part 2). The `-y` option tells `conda` to not prompt us to explicitly approve the installation.
+This line will use the `conda` package management tool to install JupyterLab and the IPython kernel from the `conda-forge` package channel. Don't worry if this doesn't make sense. It will all be explained in the **Intermediate Python (Part 2)** workshop. The `-y` option tells `conda` to not prompt us to explicitly approve the installation.
 
 ## Opening Jupyter Notebooks in JupyterLab
 
 Now that JupyterLab is installed, we can use it to open our Jupyter notebook. If you don't already have a **Terminal** window open, launch the **Terminal**. On Windows, make sure you open **Anaconda Prompt** from the Start Menu.
 
-If everything is configured properly, you should see `(base)` at the beginning of the line.
+If everything is configured properly, you should see `(base)` at the beginning of the line (see the figure above).
 
 Now, type the following to start JupyterLab:
 
@@ -67,7 +67,7 @@ Now, type the following to start JupyterLab:
 jupyter lab
 ```
 
-A web browser (Google Chrome, Microsoft Edge, Firefox) will open up. You may be asked to **Select Kernel**. Choose **Python 3** and click **Select**.
+A web browser (e.g., Google Chrome, Microsoft Edge, Firefox) will open up. You may be asked to **Select Kernel**. Choose **Python 3** and click **Select**.
 
 ![Select the kernel.](./assets/setup/kernel_prompt.png)
 
@@ -75,13 +75,13 @@ Now, you'll see a blank screen with folders on the left. Use this file browser t
 
 ![Find the workshop materials.](./assets/setup/navigation.png)
 
-You'll see the Jupyter Notebook file `IntroToPythonBZR.ipynb`. Double-click this file to open in. This file will open, and you'll be able to see all the explanations and the code.
+You'll see the Jupyter notebook file `IntroToPythonBZR.ipynb`. Double-click this file to open in. This file will open, and you'll be able to see all the explanations and the code.
 
 ![Jupyter notebook for the workshop.](./assets/setup/open_notebook.png)
 
 ## Running Code in a Jupyter Notebook
 
-Jupyter Notebooks consist of a mix of **text cells** and **code cells**.
+Jupyter notebooks consist of a mix of **text cells** and **code cells**.
 
 To run a code cell, click into it and press the **Play** button (looks like a triangle). Alternatively, on the keyboard, you can press either **`Shift-Enter`** to run the current cell and move to the next one, or **`Ctrl-Enter`** (Windows and Linux) / **`CMD-Enter`** (macOS) to run the current cell without advancing.
 
@@ -94,6 +94,6 @@ When you are done using JupyterLab, go to **File > Shut Down** to close JupyterL
 
 ## Concluding Remarks
 
-This is not the only way to install Python and to edit and run Jupyter Notebooks. If you have an existing setup that works for you, feel free to use it. Alternatively, JupyterLab can be used online for free with a Google Account through Google Colab. In fact, I have included the link for opening the workshop material in Google Colab on the workshop's `README` page.
+This is not the only way to install Python and to edit and run Jupyter notebooks. If you have an existing setup that works for you, feel free to use it. Alternatively, JupyterLab can be used online for free with a Google Account through Google Colab. In fact, I have included the link for opening the workshop material in Google Colab on the workshop's `README` page.
 
 If you have any difficulty setting up Miniconda and JupyterLab, please reach out to me **before the workshop**.
