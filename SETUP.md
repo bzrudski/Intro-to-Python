@@ -45,7 +45,7 @@ First, open up **Terminal**. On Windows, you **must** open **Anaconda Prompt** f
 
 If everything is configured correctly, then you should see `(base)` at the beginning of the line on the screen.
 
-![Terminal showing the base environment name at the prompt.](./assets/setup/terminal_macos.png)
+![Terminal showing the base environment name at the prompt.](./assets/setup/terminal_prompt.png)
 
 To install JupyterLab, type the following:
 
@@ -89,7 +89,7 @@ To run a code cell, click into it and press the **Play** button (looks like a tr
 
 When you are done using JupyterLab, go to **File > Shut Down** to close JupyterLab. Press the big red **Shutdown** button on the prompt to confirm.
 
-![Shutdown the Jupyter notebook.](./assets/setup/shutdown_highlight.png)
+![Shutdown the Jupyter notebook.](./assets/setup/shutdown_highlight_small.png)
 
 
 ## Concluding Remarks
