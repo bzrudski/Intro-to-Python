@@ -1,10 +1,10 @@
 # Intro to Python Workshop
 
 Student version: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_fall_2024/blob/main/code/IntroToPythonBZR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/scripts/IntroToPythonBZR.ipynb)
 
 Solutions version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_fall_2024/blob/main/solutions/IntroToPythonBZR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/solutions/IntroToPythonBZR.ipynb)
 
 ## Overview
 
