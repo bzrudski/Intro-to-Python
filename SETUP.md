@@ -6,7 +6,7 @@ Hello workshop attendees! Welcome to the preparation for the **Introduction to P
 
 ## Workshop Material
 
-All required material for the workshop can be downloaded from the workshop repository, found at https://github.com/bzrudski/micm_intro_to_python_summer_2024. I **strongly encourage** you to download the material **before** the workshop. Go to the workshop repository link and click the green **<> Code** button. Press **Download ZIP** and save the file.
+All required material for the workshop can be downloaded from the workshop repository, found at https://github.com/bzrudski/Intro-to-Python. I **strongly encourage** you to download the material **before** the workshop. Go to the workshop repository link and click the green **<> Code** button. Press **Download ZIP** and save the file.
 
 ![Download the code as a ZIP from the repository using the Code button.](assets/setup/code_download.png)
 
@@ -71,7 +71,7 @@ A web browser (e.g., Google Chrome, Microsoft Edge, Firefox) will open up. You m
 
 ![Select the kernel.](./assets/setup/kernel_prompt.png)
 
-Now, you'll see a blank screen with folders on the left. Use this file browser to locate the workshop materials that you extracted. Find the folder `micm_intro_to_python_fall_2024` and go into the `code` subfolder.
+Now, you'll see a blank screen with folders on the left. Use this file browser to locate the workshop materials that you extracted. Find the folder `Intro-to-Python` and go into the `Exercises/scripts` subfolder.
 
 ![Find the workshop materials.](./assets/setup/navigation.png)
 
