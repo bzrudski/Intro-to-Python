@@ -55,6 +55,8 @@ git clone https://github.com/bzrudski/Intro-to-Python.git
 ## References
 
 This workshop is based on my previous iterations of the workshop, which can be found at the following repositories:
+* [Intro to Python - Fall 2024](https://github.com/bzrudski/micm_intro_to_python_fall_2024)
+* [Intermediate Python - Fall 2024](https://github.com/bzrudski/micm_intermediate_python_fall_2024)
 * [Summer 2024](https://github.com/bzrudski/micm_intro_to_python_summer_2024)
 * [Winter 2024](https://github.com/bzrudski/micm_intro_to_python_winter_2024)
 * [Summer 2023](https://github.com/bzrudski/micm_intro_to_python_summer_2023)
