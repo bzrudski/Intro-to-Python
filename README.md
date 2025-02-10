@@ -95,13 +95,13 @@ This workshop is based on my previous iterations of the workshop, which can be f
 * [Summer 2023](https://github.com/bzrudski/micm_intro_to_python_summer_2023)
 * [Fall 2022](https://github.com/bzrudski/micm_intro_to_python_fall_2022)
 
-Google Colab badge code modified from [here](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O).
-
-**For more information about the QLS-MiCM, visit: https://www.mcgill.ca/micm/.**
+Colab badge created using https://shields.io.
 
 ---
 
-*Workshop created as part of the McGill Initiative in Computational Medicine*
+*Workshop created as part of the McGill Initiative in Computational Medicine*.
+
+For more information about the QLS-MiCM, visit: https://www.mcgill.ca/micm/.
 
 The contents of this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
