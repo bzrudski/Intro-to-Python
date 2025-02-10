@@ -1,10 +1,7 @@
 # Intro to Python Workshop
 
-Student version: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/scripts/IntroToPythonBZR.ipynb)
-
-Solutions version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/solutions/IntroToPythonBZR.ipynb)
+[![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/scripts/IntroToPythonBZR.ipynb)
+[![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/solutions/IntroToPythonBZR.ipynb)
 
 ## Overview
 
@@ -43,6 +40,42 @@ See [SETUP.md](SETUP.md) for full setup information. After setting up Python, yo
 git clone https://github.com/bzrudski/Intro-to-Python.git
 ```
 
+### Requirements
+
+To take full advantage of this interactive workshop, you must have access to a Python environment and Jupyter Lab.
+
+#### Local
+
+The required steps depend on how you installed Python:
+
+* **(Recommended)** If you installed **minconda**, you can easily install Jupyter Lab by running the following on the command line:
+```
+conda install -c conda-forge jupyterlab
+```
+* If you installed Python from the official website, you can easily install Jupyter using `pip` by running the following on the command line:
+```
+pip install jupyterlab
+```
+* If you installed **Anaconda**, you already have Jupyter Lab installed.
+
+For more details on installing Jupyter Lab, see https://jupyter.org/install.
+
+
+Once you have Jupyter installed, open the `Intro-to-Python` folder on your computer and launch Jupyter Lab by typing:
+
+```
+jupyter lab
+```
+
+Then you can open the Jupyter notebook files.
+
+#### Cloud
+
+If you don't want to install anything locally, you can open the workshop materials using Google Colab:
+
+* Student version (with blank fields): https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/scripts/IntroToPythonBZR.ipynb
+* Solution version (filled out): https://colab.research.google.com/github/bzrudski/Intro-to-Python/blob/main/Exercises/solutions/IntroToPythonBZR.ipynb
+
 ## Outline
 
 *For a more detailed outline, see [Outline/Intro-to-Python-Outline.md](Outline/Intro-to-Python-Outline.md).*
@@ -62,7 +95,7 @@ This workshop is based on my previous iterations of the workshop, which can be f
 * [Summer 2023](https://github.com/bzrudski/micm_intro_to_python_summer_2023)
 * [Fall 2022](https://github.com/bzrudski/micm_intro_to_python_fall_2022)
 
-This workshop covers a basic introduction to the Python programming language. Click on the button above to open the Jupyter notebook for this workshop in Google Colab (badge code modified from [here](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O)).
+Google Colab badge code modified from [here](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O).
 
 **For more information about the QLS-MiCM, visit: https://www.mcgill.ca/micm/.**
 
