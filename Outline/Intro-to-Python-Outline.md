@@ -33,7 +33,7 @@ building blocks that make up complex programs.
 
 ## Content
 
-1.  **Module 1 -- Python Basics (45 minutes)**
+1.  **Module 1 -- Python Basics (1 hour 15 minutes)**
     1. Foundations of Python - A Brief Overview of Types and Variables
         1. Primitive Data Types (int, float, bool, string)
         2. Variables
@@ -47,8 +47,7 @@ building blocks that make up complex programs.
         2. while Loops
         3. Iteration with for Loops
     4. Exercise: Numbers and Loops for Unit Conversion
-2.  **Module 2 -- Strings and Collections: An Object Primer (45
-    minutes)**
+2.  **Module 2 -- Strings and Collections: An Object Primer (1 hour)**
     1. Introducing Objects
         1. What is an Object?
     2. Introducing the String!
